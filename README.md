@@ -1,4 +1,4 @@
-# Razer Chroma
+# Razer Chroma Vim Mode
 Razer Chroma keyboard lighting project.  This project will hook into atom.io and work with [vim-mode](https://github.com/atom/vim-mode) plugin.  The keyboard will lightup to indicate normal or insert mode.  
 
 # Execution.
